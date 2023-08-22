@@ -15,4 +15,4 @@ Essa paixão que sinto pela área de tecnologia tem raízes profundas, e é alim
 
 > "A visão é a arte de ver o invisível." - Alan Kay
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipejFernandes&theme=tokyonigth)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipejFernandes&theme=tokyonight)
