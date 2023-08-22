@@ -7,7 +7,7 @@ Essa paixão que sinto pela área de tecnologia tem raízes profundas, e é alim
 ### Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](in/felipe-jos%C3%A9-gon%C3%A7alves-48351a215)](in/felipe-jos%C3%A9-gon%C3%A7alves-48351a215)
 
-🖥️ ### Hard Skill:
+### 🖥️Hard Skill:
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
